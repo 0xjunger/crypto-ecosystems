@@ -25,6 +25,7 @@ sub_ecosystems = [
   "ViewBlock",
   "Yet Another Company",
   "Node Guardians",
+  "Starki Protocol",
 ]
 
 github_organizations = [
@@ -958,6 +959,9 @@ url = "https://github.com/bayesdj/Learning-Cairo"
 
 [[repo]]
 url = "https://github.com/bbayazit16/project-supplement"
+
+[[repo]]
+url = "https://github.com/bdehri/starki_protocol"
 
 [[repo]]
 url = "https://github.com/beeinger/eth-warsaw"
